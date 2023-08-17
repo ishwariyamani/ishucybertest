@@ -18,7 +18,7 @@
 
 
 [instagram]: https://www.instagram.com/ishwariya_manii/
-[linkedin]: https://linkedin.com/in/ishwariyamani
+[linkedin]: http://www.linkedin.com/in/ishwariyamani
 
 <!--
 **ishwariyaMANI/ishwariyaMANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

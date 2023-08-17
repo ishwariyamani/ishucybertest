@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ishu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/ishwariyamani/">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Ishu! <br/> <a href="https://www.linkedin.com/in/ishwariyamani/">Cybersecurity Professional</a>, <a 
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
